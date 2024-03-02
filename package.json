@@ -15,6 +15,6 @@
     "serverless-openwhisk": "0.18.4"
   },
   "dependencies": {
-    "ibm-watson": "^7.0.0"
+    "ibm-watson": "^9.0.0"
   }
 }
